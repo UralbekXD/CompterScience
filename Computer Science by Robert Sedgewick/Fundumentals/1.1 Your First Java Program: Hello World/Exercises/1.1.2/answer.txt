@@ -1,0 +1,4 @@
+a. (public) Runtime Error, Main not found
+b. (static) Runtime Error, Main method is not static
+c. (void) Compiletime Error, Invalid method declaration
+d. (args) Compiletime Error, Defined string array must be named

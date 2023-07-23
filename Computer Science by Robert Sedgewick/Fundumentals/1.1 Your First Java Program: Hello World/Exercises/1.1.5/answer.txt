@@ -1,0 +1,1 @@
+Event not found! such as ! or & on bash/zsh

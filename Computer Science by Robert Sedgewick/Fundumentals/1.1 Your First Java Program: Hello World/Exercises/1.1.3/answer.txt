@@ -1,0 +1,6 @@
+a. Identifier expected
+b. Identifier expected
+c. Can't find symbol
+d. Nothing, you just changed variable name, later when
+   you want to access command line argument, you must
+   now access by giving variable name
