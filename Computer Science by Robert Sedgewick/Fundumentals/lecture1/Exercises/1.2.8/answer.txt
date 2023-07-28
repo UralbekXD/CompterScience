@@ -1,0 +1,2 @@
+For first argument write 0.0
+For second argument write N <- with floating point

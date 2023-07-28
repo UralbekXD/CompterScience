@@ -1,0 +1,3 @@
+Describe what happens if you write sqrt instead of Math.sqrt in PROGRAM 1.2.3
+
+cannot find symbol

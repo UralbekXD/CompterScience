@@ -1,0 +1,4 @@
+Math.sqrt(2) * Math.sqrt(2) == 2
+It will equal false
+Because Math.sqrt returns double
+double * double => N.0000000(X)

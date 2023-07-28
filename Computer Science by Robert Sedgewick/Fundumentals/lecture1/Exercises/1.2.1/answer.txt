@@ -1,0 +1,8 @@
+Suppose that a and b are int variables. What does the following sequence of statements do?
+
+int t = a;
+b = t;
+a = b;
+
+Answer:
+    All variables will equal to value of variable 'a'
